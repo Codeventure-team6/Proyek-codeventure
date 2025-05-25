@@ -1,0 +1,10 @@
+Fruit_Name,Weight_in_Kg,Total_Cost,Purchased
+Durian,40,79000,Yes
+Melon,10,83000,Yes
+Apple,47,67000,Yes
+Orange,70,63000,No
+Melon,59,,Yes
+Durian,40,76000,Yes
+Melon,20,34000,No
+Avocado,21,38500,Yes
+Apple,24,38000,Yes
