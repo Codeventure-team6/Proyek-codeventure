@@ -5,7 +5,7 @@
 - Piter Rafflesia P
 - Rachmat Dwi Agustyan
 - Salma Kamila
-- Vidky Adhi Prada
+- Vidky Adhi Pradana
 - Yesa Nurul Fadillah
 
 ## Tujuan Proyek
