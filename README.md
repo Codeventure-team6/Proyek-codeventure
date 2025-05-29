@@ -89,4 +89,4 @@ Analisis ini memberikan wawasan berharga bagi pemilik data untuk membuat keputus
 - `chart`: berisi file `.png` hasil visualisasi
 - `dataset/`: berisi file CSV
 - `README.md`: dokumentasi proyek
-- `laporan.pdf`: laporan akhir
+- `Laporan_CodeVenture2025_Kelompok_6.pdf`: laporan akhir
