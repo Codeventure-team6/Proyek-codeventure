@@ -30,6 +30,8 @@ Kolom pada dataset:
 - Library:
   - Pandas
   - Matplotlib
+  - seaborn
+  - sklearn
 
 ## Proses Pemodelan Data
 1. Eksplorasi awal dan pembersihan data (menghapus nilai kosong)
@@ -38,11 +40,25 @@ Kolom pada dataset:
 4. Visualisasi:
    - Bar chart total penjualan per buah
    - Pie chart proporsi pembelian
+   - Pie chart proporsi total cost per jenis buah
+   - Bonus Grafik Scatter Plot untuk menunjukkan hubungan antara dua variabel numerik: "Weight_in_Kg" dan "Total"
 
 ## Hasil Visualisasi
 Visualisasi menggambarkan buah-buah dengan penjualan tertinggi dan pola pembelian berdasarkan data seluruh cabang dan cabang Jogja.
 
 > Gambar visualisasi akan ditampilkan di notebook atau laporan PDF.
+![Preview](https://github.com/Codeventure-team6/Proyek-codeventure/blob/e0917a10b433537f8c768024f39ef969bdf5fd44/chart/Bar%20Chart%20-%20Total%20Pendapatan%20per%20Jenis%20Buah.png)
+
+![Preview](https://github.com/Codeventure-team6/Proyek-codeventure/blob/e0917a10b433537f8c768024f39ef969bdf5fd44/chart/Pie%20Chart%20-%20Persentase%20Pendapatan%20Buah.png)
+
+![Preview](https://github.com/Codeventure-team6/Proyek-codeventure/blob/e0917a10b433537f8c768024f39ef969bdf5fd44/chart/Pie%20Chart%20-%20Proposisi%20Pembelian.png)
+
+![Preview](https://github.com/Codeventure-team6/Proyek-codeventure/blob/e0917a10b433537f8c768024f39ef969bdf5fd44/chart/Scatter_Plot_Berat_VS_Total_Regresi_Linear.png.png)
+
 
 ## Struktur Folder
-
+- `Proyek_Analisis_fruit_sales_data.ipynb`: berisi file google collab (normalisasi, process, dan visualization)
+- `chart`: berisi file `.png` hasil visualisasi
+- `dataset/`: berisi file CSV
+- `README.md`: dokumentasi proyek
+- `laporan.pdf`: laporan akhir
